@@ -96,7 +96,7 @@
     <header>
         <div class="header-content">
             <!-- Add your profile picture here -->
-            <img src="https://drive.google.com/file/d/1YFP5q85yOOeh_HPiyHTbtbYYkNEHBDUF/view?usp=drivesdk"alt="Your Profile Picture" class="profile-picture">
+            <img src="Devishree.jpg"alt="Your Profile Picture" class="profile-picture">
             <h1>Devishree M</h1>
             <p>Am Undergraduate</p>
         </div>
